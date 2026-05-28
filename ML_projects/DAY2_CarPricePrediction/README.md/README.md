@@ -87,7 +87,7 @@ The target variable (`selling_price`) showed:
 Performed:
 
 * Removal of unnecessary columns
-* One-Hot Encoding
+* Label Encoding
 * Log Transformation of target variable
 
 ### Log Transformation
