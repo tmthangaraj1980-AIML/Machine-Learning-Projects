@@ -68,16 +68,42 @@ A regression-based Machine Learning project to predict used car selling prices.
 
 ---
 
-# 🛠️ Technologies Used
+## 🚀 Live Demo
+
+🔗 Hugging Face Deployment:
+(https://thangarajaiml-car-price-prediction.hf.space)
+
+---
+
+## 📌 Project Highlights
+
+* End-to-End Machine Learning Project
+* Car Price Prediction using XGBoost Regressor
+* Feature Engineering
+* Hyperparameter Tuning
+* Log Transformation
+* Streamlit Web App Deployment
+* Hugging Face Hosting
+
+---
+
+## 🛠 Technologies Used
 
 * Python
 * Pandas
 * NumPy
-* Matplotlib
-* Seaborn
 * Scikit-Learn
 * XGBoost
-* Jupyter Notebook
+* Streamlit
+* Hugging Face Spaces
+
+---
+
+## 👨‍💻 Developed By
+
+**Thangaraj T**
+ML Engineer | AI Enthusiast
+
 
 ---
 
